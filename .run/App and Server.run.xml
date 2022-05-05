@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="App and Server" type="CompoundRunConfigurationType">
+    <toRun name="app" type="PythonConfigurationType" />
+    <toRun name="battleshipServer" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
